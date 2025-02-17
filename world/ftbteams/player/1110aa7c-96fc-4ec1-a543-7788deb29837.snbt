@@ -1,0 +1,15 @@
+{
+	id: "1110aa7c-96fc-4ec1-a543-7788deb29837"
+	type: "player"
+	player_name: "sbtN14"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "sbtN14"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59BA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

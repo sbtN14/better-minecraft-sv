@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "dbc8e651f04844a5af751e33e74ee955"
+	name: "SmiDax#dbc8e651"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1739497853274L
+		2574E7CF699D5B45: 1739497853274L
+		0470194500CBE26C: 1739497853274L
+		0000000000000001: 1739497853274L
+	}
+	completed: {
+		2574E7CF699D5B45: 1739497853280L
+		0470194500CBE26C: 1739497853280L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

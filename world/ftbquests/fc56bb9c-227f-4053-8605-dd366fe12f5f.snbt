@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "fc56bb9c227f40538605dd366fe12f5f"
+	name: "Wekakinho#fc56bb9c"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1739498643975L
+		2574E7CF699D5B45: 1739498643975L
+		0470194500CBE26C: 1739498643975L
+		0000000000000001: 1739498643975L
+	}
+	completed: {
+		2574E7CF699D5B45: 1739498643976L
+		0470194500CBE26C: 1739498643976L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

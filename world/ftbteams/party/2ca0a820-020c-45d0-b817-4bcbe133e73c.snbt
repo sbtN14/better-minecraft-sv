@@ -1,0 +1,28 @@
+{
+	id: "2ca0a820-020c-45d0-b817-4bcbe133e73c"
+	type: "party"
+	owner: "1110aa7c-96fc-4ec1-a543-7788deb29837"
+	ranks: {
+		3d131482-1188-4cad-89e0-cf5e0c552588: "member"
+		dbc8e651-f048-44a5-af75-1e33e74ee955: "member"
+		fc56bb9c-227f-4053-8605-dd366fe12f5f: "member"
+		1110aa7c-96fc-4ec1-a543-7788deb29837: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "WTF"
+		"ftbteams:description": "WTF Party"
+		"ftbteams:color": "#FF59BA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739497891987L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"sbtN14\"}]}" }
+		{ from: "1110aa7c-96fc-4ec1-a543-7788deb29837", date: 1739497891996L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"SmiDax\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739497894159L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"SmiDax\"}]}" }
+		{ from: "1110aa7c-96fc-4ec1-a543-7788deb29837", date: 1739498764294L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Wekakinho\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739498810827L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Wekakinho\"}]}" }
+		{ from: "1110aa7c-96fc-4ec1-a543-7788deb29837", date: 1739568296494L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Tamarillo11\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739568300276L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Tamarillo11\"}]}" }
+	]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "3d131482-1188-4cad-89e0-cf5e0c552588"
+	type: "player"
+	player_name: "Tamarillo11"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Tamarillo11"
+		"ftbteams:description": ""
+		"ftbteams:color": "#595BFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

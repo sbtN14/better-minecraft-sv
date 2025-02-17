@@ -1,0 +1,4 @@
+[18:13:09] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[18:13:09] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE homeward_bound 1.0 {depends yet_another_config_lib_v3 @ [*]}, ROOT_FORCELOAD_SINGLE homeward_bound 1.0]
+[18:13:09] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP homeward_bound 1.0 {depends yet_another_config_lib_v3 @ [*]}]
+[18:13:09] [INFO] [FabricLoader/Resolution]: Fix: add [add:yet_another_config_lib_v3 1 ([(-∞,∞)])], remove [], replace []

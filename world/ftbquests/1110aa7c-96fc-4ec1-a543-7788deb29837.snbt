@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "1110aa7c96fc4ec1a5437788deb29837"
+	name: "sbtN14#1110aa7c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

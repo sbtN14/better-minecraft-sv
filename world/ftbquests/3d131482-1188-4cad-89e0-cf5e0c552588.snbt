@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "3d13148211884cad89e0cf5e0c552588"
+	name: "Tamarillo11#3d131482"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "dbc8e651-f048-44a5-af75-1e33e74ee955"
+	type: "player"
+	player_name: "SmiDax"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "SmiDax"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFB059"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
