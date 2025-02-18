@@ -4,5 +4,11 @@
     "name": "SBTN",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1110aa7c-96fc-4ec1-a543-7788deb29837",
+    "name": "sbtN14",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

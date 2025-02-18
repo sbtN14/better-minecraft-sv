@@ -3848,21 +3848,21 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_loom": {
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
-      "has_string": "2025-02-14 18:36:02 -0300"
+      "has_mutton": "2025-02-14 18:25:53 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/food/golden_apple": {
+  "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+      "has_mutton": "2025-02-14 18:25:53 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_boots": {
+  "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+      "has_cooked_mutton": "2025-02-14 18:25:53 -0300"
     },
     "done": true
   },
@@ -3878,42 +3878,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/combat/golden_knife": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-02-14 18:25:53 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/hourglass": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-02-14 18:36:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
   "another_furniture:recipes/white_sofa": {
     "criteria": {
       "has_wool": "2025-02-14 18:28:02 -0300"
@@ -3926,63 +3890,9 @@
     },
     "done": true
   },
-  "barteringstation:recipes/decorations/bartering_station": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-02-14 18:25:53 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-02-14 19:02:49 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/gold_door": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_pendant": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2025-02-14 18:28:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-02-14 18:45:09 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-02-14 19:02:49 -0300"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/bone_cortical": {
-    "criteria": {
-      "has_item": "2025-02-14 19:11:43 -0300"
     },
     "done": true
   },
@@ -3992,45 +3902,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-02-14 18:25:53 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sack": {
-    "criteria": {
-      "has_string": "2025-02-14 18:36:02 -0300"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/gold_chandelier": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-02-14 18:28:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-02-14 18:36:02 -0300"
-    },
-    "done": true
-  },
-  "twigs:recipes/lamps/lamp": {
-    "criteria": {
-      "has_item": "2025-02-14 18:51:18 -0300"
     },
     "done": true
   },
@@ -4040,93 +3914,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/key": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_gloves": {
-    "criteria": {
-      "has_gold": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-02-14 18:36:02 -0300"
-    },
-    "done": true
-  },
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-02-14 18:28:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2025-02-14 18:36:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/food/surf_and_turf": {
-    "criteria": {
-      "has_baked_potato": "2025-02-14 18:45:09 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-02-14 18:36:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-02-14 18:36:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-02-14 19:11:43 -0300"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_ring": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "aether:recipes/redstone/skyroot_tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-02-14 18:36:02 -0300"
     },
     "done": true
   },
@@ -4136,93 +3926,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
   "aether:recipes/combat/white_cape": {
     "criteria": {
       "has_white_wool": "2025-02-14 18:28:02 -0300"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/building_blocks/cod_barrel": {
-    "criteria": {
-      "has_cod": "2025-02-14 19:02:49 -0300"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/chandelier": {
-    "criteria": {
-      "has_torch": "2025-02-14 18:51:18 -0300"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
-    "criteria": {
-      "has_item": "2025-02-14 19:11:43 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/gold_trapdoor": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/gilded_beads": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-02-14 19:02:49 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
-    "criteria": {
-      "has_torch": "2025-02-14 18:51:18 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-02-14 18:51:14 -0300"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
-    "criteria": {
-      "has_cod": "2025-02-14 19:02:49 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
-    "criteria": {
-      "has_torch": "2025-02-14 18:51:18 -0300"
-    },
-    "done": true
-  },
-  "yungscavebiomes:frosted_caves": {
-    "criteria": {
-      "frosted_caves": "2025-02-14 18:43:21 -0300"
     },
     "done": true
   },
@@ -4232,33 +3938,9 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_gold_ingot": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-02-14 19:11:19 -0300"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/stacked_bones": {
-    "criteria": {
-      "has_item": "2025-02-14 19:11:43 -0300"
-    },
-    "done": true
-  },
-  "adorabuild_structures:tireless_legs": {
-    "criteria": {
-      "oak_house_small_1": "2025-02-14 18:34:31 -0300"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-02-14 18:28:02 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce": {
-    "criteria": {
-      "has_torch": "2025-02-14 18:51:18 -0300"
     },
     "done": true
   },
@@ -4280,9 +3962,93 @@
     },
     "done": true
   },
+  "adorabuild_structures:tireless_legs": {
+    "criteria": {
+      "oak_house_small_1": "2025-02-14 18:34:31 -0300"
+    },
+    "done": false
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-02-14 18:36:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-14 18:36:02 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-02-14 18:36:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-14 18:36:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-14 18:36:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-14 18:36:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-14 18:36:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-14 18:36:02 -0300"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-14 18:36:02 -0300"
+    },
+    "done": true
+  },
+  "yungscavebiomes:frosted_caves": {
+    "criteria": {
+      "frosted_caves": "2025-02-14 18:43:21 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-02-14 18:45:09 -0300"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/surf_and_turf": {
+    "criteria": {
+      "has_baked_potato": "2025-02-14 18:45:09 -0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-02-14 18:45:09 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-14 18:51:14 -0300"
     },
     "done": true
   },
@@ -4292,9 +4058,243 @@
     },
     "done": true
   },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2025-02-14 18:51:18 -0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-14 18:51:18 -0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-14 18:51:18 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-02-14 18:51:18 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-02-14 18:51:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-02-14 19:02:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-02-14 19:02:49 -0300"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/cod_barrel": {
+    "criteria": {
+      "has_cod": "2025-02-14 19:02:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-14 19:02:49 -0300"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-02-14 19:02:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "barteringstation:recipes/decorations/bartering_station": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/gold_chandelier": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/gilded_beads": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
   "shieldexp:recipes/golden_shield": {
     "criteria": {
       "has_gold_ingot": "2025-02-14 19:11:19 -0300"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-02-14 19:11:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-14 19:11:43 -0300"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-02-14 19:11:43 -0300"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-02-14 19:11:43 -0300"
     },
     "done": true
   },
